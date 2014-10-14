@@ -1,6 +1,8 @@
 # Thinktecture IdentityServer v3 #
 
-**Current status: Beta 1**
+**Current status: Beta 2**
+
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/thinktecture/Thinktecture.IdentityServer.v3?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## Overview ##
 
@@ -44,15 +46,21 @@ The host [samples](https://github.com/thinktecture/Thinktecture.IdentityServer.v
 * support for EntityFramework based persistence of configuration
 * support for WS-Federation
 
+## Related repositories ##
+* [Samples](https://github.com/thinktecture/Thinktecture.IdentityServer.v3.Samples)
+* [MembershipReboot support](https://github.com/thinktecture/Thinktecture.IdentityServer.v3.MembershipReboot)
+* [ASP.Net Identity support](https://github.com/thinktecture/Thinktecture.IdentityServer.v3.AspNetIdentity)
+* [EntityFramework support](https://github.com/thinktecture/Thinktecture.IdentityServer.v3.EntityFramework)
+* [WS-Federation plugin](https://github.com/thinktecture/Thinktecture.IdentityServer.v3.WsFederation)
+
+
 ## Credits ##
 IdentityServer is built using the following great open source projects:
 
-- ASP.NET Web API
-- Autofac
-- Json.Net
-- Thinktecture IdentityModel
-- ILMerge
-- DH.Logging
-- Katana
+- [ASP.NET Web API](https://aspnetwebstack.codeplex.com/)
+- [Autofac](http://autofac.org/)
+- [Json.Net](http://james.newtonking.com/json)
+- [LibLog](https://github.com/damianh/LibLog)
+- [Katana](https://katanaproject.codeplex.com/)
 
 thanks to all [contributors](https://github.com/thinktecture/Thinktecture.IdentityServer.v3/graphs/contributors)!
